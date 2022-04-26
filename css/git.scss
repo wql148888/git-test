@@ -1,0 +1,10 @@
+div {
+    width: 200px;
+    height: 200px;
+    &:hover{
+        background-color: red;
+    }
+    span {
+        margin: 20px;
+    }
+}
